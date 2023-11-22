@@ -1,0 +1,10 @@
+1|John|Doe|Smith|M|2|Computer Science|A101|85
+2|Alice|Johnson|Williams|F|3|Mathematics|B203|78
+3|David|Brown|Jones|M|1|Physics|C305|92
+4|Elena|Garcia|Martinez|F|4|Chemistry|D401|65
+5|Robert|Lee|Davis|M|2|Biology|E502|70
+6|Maria|Rodriguez|Hernandez|F|3|Engineering|F101|88
+7|William|Lopez|Gonzalez|M|1|History|G201|76
+8|Sofia|Wilson|Johnson|F|2|Psychology|H301|94
+9|Michael|Martinez|Garcia|M|4|Economics|I401|82
+10|MIk|Tima|hyyhj|M|3|PIT|10|45
